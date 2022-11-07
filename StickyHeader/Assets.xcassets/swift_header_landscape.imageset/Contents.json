@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "swift_header_landscape.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
